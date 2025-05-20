@@ -1,6 +1,4 @@
 ## Russian Roulette
-```markdown
-# Russian Roulette
 
 A web application built in C# simulating the classic game of Russian Roulette.
 
